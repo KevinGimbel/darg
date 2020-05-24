@@ -11,7 +11,7 @@ Minimal effor arg parser, just enough to get [https://github.com/kevingimbel/lic
 ## Usage
 
 ```ts
-import { Darg } from "???"
+import { Darg } from "https://raw.githubusercontent.com/kevingimbel/darg/master/src/mod.ts"
 
 const darg = Darg({log_required_values: true})
 // Searches for `-u`, `-user` and `--user`

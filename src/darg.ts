@@ -52,7 +52,7 @@ export class Darg {
 
   private log_arg_required(arg: string) {
     console.error(
-      `Error: Argument ${arg} (or -${arg[0]}, --${arg}) is required`,
+      `Error: Argument -${arg} (or -${arg[0]}, --${arg}) is required`,
     );
   }
 }

@@ -6,7 +6,7 @@
 - [License](#license)
 <!-- END mktoc -->
 
-Minimal effor arg parser, just enough to get [https://github.com/kevingimbel/license-cli](https://github.com/kevingimbel/license-cli) working. You probably do not want to use this in your scripts.
+Minimal effort arg parser, just enough to get [https://github.com/kevingimbel/license-cli](https://github.com/kevingimbel/license-cli) working. You probably do not want to use this in your scripts.
 
 ## Usage
 
